@@ -148,5 +148,6 @@
 
 ## 📬 获取方式
 
-- 🌐 官网：👉 [GoPay 官方网站](https://goopay.pro)
-- 💬 Telegram：👉 [Telegram 即时沟通](https://t.me/goolangpay)
+- 🌐 官网：👉 [GooPay 官方网站](https://goopay.pro)
+- 💬 Telegram：👉 [https://t.me/goolangpay](https://t.me/goolangpay)
+
